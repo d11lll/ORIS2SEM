@@ -5,6 +5,10 @@
     <file url="file://$PROJECT_DIR$/lab2/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lab2_4_spring_jpa/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lab2_4_spring_jpa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_6_spring_security_jwt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_6_spring_security_jwt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_7_docker_http_client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_7_docker_http_client/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

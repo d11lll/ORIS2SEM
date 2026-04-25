@@ -11,6 +11,8 @@
     <modules>
         <module>lab2</module>
         <module>lab2_4_spring_jpa</module>
+        <module>lab2_6_spring_security_jwt</module>
+        <module>lab2_7_docker_http_client</module>
     </modules>
 
     <properties>
